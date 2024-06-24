@@ -1,4 +1,5 @@
 Jewelry Website
+
 Welcome to the Jewelry Website project! This is a simple and elegant website showcasing a collection of jewelry. It is built using HTML and CSS.
 
 Table of Contents
@@ -24,7 +25,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/jewelry-website.git
+git clone https://github.com/S-Balamanikandan/jewelry-website.git
 Navigate to the project directory:
 
 bash
